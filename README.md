@@ -22,3 +22,12 @@ This project is part of my **Data Science Project Series**. It aims to automate 
 ## 📂 Project Structure
 * `madfhantr.csv`: Training dataset.
 * `Loan_Prediction_Analysis.ipynb`: Full source code with detailed explanations.
+## 📈 Visual Insights
+
+#### 1. Model Performance (Confusion Matrix)
+Look at how the model handles False Positives vs. False Negatives.
+![Confusion Matrix](confusion_matrix.png)
+
+#### 2. Business Determinants (Feature Importance)
+As expected, **Credit History** is by far the most critical factor for loan approval.
+![Feature Importance](feature_importance.png)
