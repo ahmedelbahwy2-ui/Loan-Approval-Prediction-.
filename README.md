@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.credly.com/go/0TKolFMHDWt6gQIUekn2cQ">
-    <img src="<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fd073c9c-4879-402f-a507-83a7a8f068ae" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>">
+    <img src="https://images.credly.com/size/340x340/images/fd073c9c-4879-402f-a507-83a7a8f068ae/image.png" width="200" alt="2026 Microsoft Student Ambassador">
   </a>
 </p>
 # Loan Approval Prediction System 💰
