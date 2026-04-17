@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.credly.com/go/0TKolFMHDWt6gQIUekn2cQ">
-    <img src="https://images.credly.com/size/340x340/images/fd073c9c-4879-402f-a507-83a7a8f068ae/image.png" width="200" alt="2026 Microsoft Student Ambassador">
+    <img src="https://images.credly.com/size/220x220/images/dd0f5b7b-6346-4e0f-b9d9-9f8c9abe914c/blobpng" width="200" alt="2026 Microsoft Student Ambassador">
   </a>
 </p>
 # Loan Approval Prediction System 💰
