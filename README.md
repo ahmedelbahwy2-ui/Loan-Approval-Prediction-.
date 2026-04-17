@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="https://www.credly.com/go/0TKolFMHDWt6gQIUekn2cQ">
-    <img src="<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/4ca97f78-9b6c-4923-9e2d-d210cd00ed0e" />
-" width="200" alt="2026 Microsoft Student Ambassador">
-  </a>
-</p>
+
 # Loan Approval Prediction System 💰
 
 ## 📌 Project Overview
